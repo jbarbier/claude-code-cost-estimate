@@ -2,7 +2,7 @@
 
 A custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) slash command that analyzes any codebase and estimates what it would have cost to build with a traditional human team — no AI, just developers, designers, PMs, and meetings.
 
-Point it at a project, run `/cost-estimate`, and get a full breakdown of what it would cost to build from scratch — with real market rates, realistic timelines, and team cost projections.
+Open Claude Code in any project, run `/cost-estimate`, and get a full breakdown of what it would cost to build from scratch — with real market rates, realistic timelines, and team cost projections.
 
 ## What It Does
 
