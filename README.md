@@ -4,6 +4,10 @@ A custom [Claude Code](https://docs.anthropic.com/en/docs/claude-code) slash com
 
 Open Claude Code in any project, run `/cost-estimate`, and get a full breakdown of what it would cost to build from scratch — with real market rates, realistic timelines, and team cost projections.
 
+## Example Output
+
+![Cost estimate report screenshot](screenshot-claude-code-skill-cost-estimate.png)
+
 ## What It Does
 
 The skill acts as a senior software engineering consultant. It:
