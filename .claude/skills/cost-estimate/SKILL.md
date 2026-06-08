@@ -55,25 +55,47 @@ Read or execute these on demand — don't pre-load everything.
 
 ---
 
-## Workflow — 12 steps
-
+Workflow — 12 steps
 Copy this checklist and check items off as you complete them:
 
-```
+🔍 **Step 0/12: Detecting project size...**
 - [ ] Step 0:  Pick a strategy (size-aware)
+
+📊 **Step 1/12: Counting lines of code & analyzing quality...**
 - [ ] Step 1:  Measure the codebase (LOC, quality, stack)
+
+📈 **Step 2/12: Analyzing git history...**
 - [ ] Step 2:  Gather process signals (git)
+
+🧮 **Step 3/12: Calculating base engineering hours...**
 - [ ] Step 3:  Categorize & compute base hours (P10 / P50 / P90)
+
+✅ **Step 4/12: Running cross-checks...**
 - [ ] Step 4:  Cross-check (COCOMO II + Function Points + LOCOMO)
+
+⚙️ **Step 5/12: Applying overhead multipliers...**
 - [ ] Step 5:  Apply overhead multipliers
+
+💰 **Step 6/12: Researching market rates...**
 - [ ] Step 6:  Research market rates
+
+📅 **Step 7/12: Converting to calendar time...**
 - [ ] Step 7:  Convert to calendar time
+
+👥 **Step 8/12: Computing full team cost...**
 - [ ] Step 8:  Compute full-team cost
+
+🤖 **Step 9/12: Calculating Claude ROI...**
 - [ ] Step 9:  Compute Claude ROI
+
+🎯 **Step 10/12: Running sensitivity analysis...**
 - [ ] Step 10: Sensitivity + cross-validation
+
+📝 **Step 11/12: Generating report...**
 - [ ] Step 11: Generate the report
+
+💾 **Step 12/12: Saving artifacts...**
 - [ ] Step 12: Write artifacts to temp dir + print to terminal
-```
 
 ---
 
